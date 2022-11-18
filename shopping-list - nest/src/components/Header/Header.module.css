@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(27, 162, 246);
+  padding: 2rem;
+}
+
+.welcome {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 2rem;
+  margin: 0.5rem;
+}
